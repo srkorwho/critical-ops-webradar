@@ -12,4 +12,6 @@ Wait few seconds and you will start to see enemies on match.
 
 Tested on spec ops ranks works fire never gonna get detected have fun
 
-PS: Critical force team i appricate all your encryptions and obfuscations, it took mine 3 week to analyze
+PS: Critical force team i appricate all your encryptions and obfuscations, it took my 3 week to analyze
+
+server is down now 
