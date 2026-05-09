@@ -15,3 +15,6 @@ Tested on spec ops ranks works fire never gonna get detected have fun
 PS: Critical force team i appricate all your encryptions and obfuscations, it took my 3 week to analyze
 
 server is down now 
+
+
+update 9.05.2026 : after 8 months i tried again to use this and it seems not working, i dont know if they just changed basic packet struct or different thing, but since there are lots of people keep asking me for it and its patched so it wont hurt game, ill share the source for educational purposes.
